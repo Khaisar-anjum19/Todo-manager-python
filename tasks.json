@@ -18,5 +18,10 @@
         "title": "Complete SkillAudit Project",
         "completed": false,
         "priority": "High"
+    },
+    {
+        "title": "Add Task",
+        "completed": false,
+        "priority": "High"
     }
 ]
